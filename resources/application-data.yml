@@ -1,0 +1,5 @@
+database:
+  user: root
+  pwd: 19990324
+  ip: 127.0.0.1
+  schema: evaluate_manage
